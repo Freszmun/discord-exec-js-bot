@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-js-exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "https://mateuszbilicz.pl/",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "vm": "^0.1.0"
+  }
+}

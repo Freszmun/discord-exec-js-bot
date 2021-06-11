@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+bot-login.txt
+package-lock.json
+conf.json
+workspace.xml
